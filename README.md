@@ -39,7 +39,6 @@
 
 # ‧₊˚✧[Стафф]✧˚₊‧
 • 👑 [Прøбе́л - Разраб/Хост](https://github.com/GapAPK "GitHub")\
-• 🎨 Secret Melon - Художник\
 • 🔋 Vojijpg - Бета-Тестер\
 • 📰 [Viachek - Издатель](https://github.com/Vja0css "GitHub")\
 • 🛡️ Coffee - Модератор
